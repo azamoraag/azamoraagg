@@ -1,0 +1,97 @@
+/* STYLE SECTIONING TAGS */
+
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: #E7D7C1; 
+}
+
+/* STYLE TEXT */
+
+h1 { 
+  
+  lign-height: 1.6;
+  font-size: 100px;
+  text-align:center;
+  text-shadow: -1px 0 #5c0700, 0 1px #5c0700, 1px 0 #5c0700, 0 -1px #3c081b;
+
+  font-family: Rubik Dirt ; color: #BF4342;
+ 
+}
+h2 {
+  font-size:50px;
+  text-align:center;
+  font-family:Inconsolata;
+  margin: 10px;
+  padding: 10px;
+  
+
+}
+
+h2 {
+  color: #5c0700;
+}
+
+p {
+  font-size:20px;
+  text-align:center;
+  font-family:Inconsolata;
+  margin: 30px;
+  padding: 10px;
+  color: #BF4342;
+  background-color: #f0e2ce;
+  
+}
+/* STYLE IMAGES */
+.visa {
+width: auto;
+text-align: center;
+padding: 15px;
+background-color:#f0e2ce;
+}
+.about {
+width: auto;
+text-align: center;
+padding: 15px;
+background-color:#f0e2ce;
+}
+img {
+  max-width: 100%;
+height: auto;
+}
+/* STYLE NAV BAR */
+ul {
+  list-style-type:none;
+  background-color: #BF4342;
+  overflow:hidden;
+  padding:0.5cm;
+  text-align:center;
+  Font-family:Inconsolata;
+}
+li {
+  display:inline;
+}
+li a {
+  text-decoration:none;
+  color:#E7D7C1;
+  font-size:0.5cm;
+  padding:1cm;
+}
+li a:hover {
+  background-color:#ff8c82;
+}
+/* STYLE BUTTONS */
+.donations {
+  color:#BF4342;
+}
+/* ADD MORE! */
+h1{
+   line-height:4;
+}
+
+#centerInput {
+  text-align:center;
+}
